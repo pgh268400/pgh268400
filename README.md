@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm File</h1>
+![image](https://user-images.githubusercontent.com/31213158/122642753-f39cfd80-d146-11eb-9e31-90d9be53a861.png)
+
 <h3 align="center">A passionate developer from Korea</h3>
 
 <div align="center">
