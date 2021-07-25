@@ -6,7 +6,7 @@
 
  - 🌱 I’m currently learning **Programming Language**
 
- - 📝 I regularly write articles on [https://pgh268400.tistory.com/](https://pgh268400.tistory.com/)
+ - 📝 I regularly write articles on Tistory
 
  - 📫 How to reach me :: **pgh268400@naver.com**
 
