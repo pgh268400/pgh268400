@@ -24,4 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgh268400&show_icons=true&locale=en" alt="pgh268400" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgh268400&" alt="pgh268400" /></p>
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgh268400&layout=compact" />
+</a>
 </div>
