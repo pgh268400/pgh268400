@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm File</h1>
 -->
 
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi 👋, I'm File&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20File&fontSize=90&fontColor=FFFFFF" />
  <h3 align="center">A passionate developer from Korea</h3>  
  
  - 🌱 I’m currently learning **Programming Language**
