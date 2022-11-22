@@ -12,7 +12,7 @@
 
  - 📫 How to reach me :: **pgh268400@naver.com**
 
- - 🔧 Main Programming Language : Python & C#
+ - 🔧 Main Programming Language : Python & C# , C & C++
  
  - 😃 Favorite : I like playing the piano and listening to it  
                  anything that interests me. Of course programming is included.
